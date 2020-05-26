@@ -1,0 +1,2 @@
+# Serie-di-Leibniz-per-
+In matematica, la formula di Madhava-Leibniz per π è una serie convergente, chiamata più correttamente Serie di Madhava–Leibniz essendo un caso particolare di una più generale serie per la tangente inversa, di cui primo scopritore fu appunto Madhava di Sangamagrama. È nota anche come serie di Gregory per π, dal nome del matematico scozzese James Gregory che la riscoprì qualche anno prima di Leibniz stesso.
