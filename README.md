@@ -4,7 +4,7 @@ In matematica, la formula di Madhava-Leibniz per π è una serie convergente, ch
 
 Essa afferma che la somma infinita a segni alterni di tutti i reciproci dei numeri naturali dispari, partendo da più uno, è uguale a un quarto del pi greco:
 
-![]()
+![](image/2b7f92c0c10dff3f9964d985f432513b014725a8.png)
 
 
 
