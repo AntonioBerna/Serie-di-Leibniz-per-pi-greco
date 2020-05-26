@@ -12,4 +12,4 @@ Essa afferma che la somma infinita a segni alterni di tutti i reciproci dei nume
 
 Spiegazione online Serie di Leibniz per π [youtube]: IN ARRIVO
 
-Serie di Leibniz per π [Teoria]: https://it.wikipedia.org/wiki/Formula_di_Leibniz_per_pi#Efficienza_nel_calcolo_di_%CF%80
+Serie di Leibniz per π [Teoria]: https://it.wikipedia.org/wiki/Formula_di_Leibniz_per_pi
