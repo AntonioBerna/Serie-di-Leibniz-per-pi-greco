@@ -8,7 +8,7 @@ Essa afferma che la somma infinita a segni alterni di tutti i reciproci dei nume
 
 Se si pone sull'asse delle ascisse _n_ (variabile della somma) e sull'asse delle ordinate _π(n)_ (si intende che se si moltiplicano per 4 i termini della serie allora si ottiene π e non più π/4) la rappresentazione grafica della _Serie di Leibniz_ è:
 
-![](image/)
+![](image/Figure_1.png)
 
 
 
