@@ -17,3 +17,5 @@ Se si pone sull'asse delle ascisse _n_ (variabile della somma) e sull'asse delle
 Spiegazione online Serie di Leibniz per π [youtube]: IN ARRIVO
 
 Serie di Leibniz per π [Teoria]: https://it.wikipedia.org/wiki/Formula_di_Leibniz_per_pi
+
+Created By Antonio Bernardini Copyright© 2020
