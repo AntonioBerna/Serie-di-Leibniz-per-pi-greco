@@ -20,4 +20,4 @@ Spiegazione online Serie di Leibniz per π [youtube]: https://youtu.be/ksMgFxMEx
 
 Serie di Leibniz per π [Teoria]: https://it.wikipedia.org/wiki/Formula_di_Leibniz_per_pi
 
-Created By Antonio Bernardini Copyright© 2020
+Created By Antonio Bernardini Copyright© 2021
